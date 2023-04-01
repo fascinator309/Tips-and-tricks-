@@ -1,0 +1,11 @@
+for dual boot ..
+before booting kali 
+make disk part for kali from windows
+at the time of partition selection 
+click on MANUALLY
+click on the partition you had just made and delete the partition 
+for make it free space ...
+after select the free space and go with default options(first option)
+click yes 
+done!
+
