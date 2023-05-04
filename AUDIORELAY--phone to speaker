@@ -3,3 +3,12 @@ use phone as pc speaker and mic
 download audiorelay app from play store in phone
 
 download audio relay in pc from website
+
+Usb terthering on
+
+for linux if error occur 
+sol--
+on right side of audiorelay on desktop 
+select which audio dexice to stream 
+change default option to "monitor of bulit in audio analog stereo"
+
