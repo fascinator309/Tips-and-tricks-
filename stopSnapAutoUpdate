@@ -1,0 +1,14 @@
+cmd 1
+sudo snap set system refresh.metered=hold
+
+cmd 2
+snap refresh --hold      //hold until unhold it
+
+syntax - snap refresh --hold=(time in hours)
+        snap refresh --hold=<duration> <snap1> <snap2>
+
+
+for unhold
+ snap refresh --hold <snap1> <snap2>
+
+note- snap1 and snap2.... are the application uses snap like firefox chrome...
