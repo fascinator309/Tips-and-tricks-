@@ -1,0 +1,9 @@
+To enable Hibernate mode in Windows 10,
+
+
+Go to Settings > System > Power & sleep.
+Scroll down on the right-hand side and click the “Additional power settings” link.
+That will open Power Options in the classic Control Panel.
+In Power Options, click on "Choose what the power button does" or "Choose what closing the lid does".
+to add in start menu -- click on " change settings that are not currently available" -- then mark to hibernate.
+also for hardware power button Select "Hibernate" and click "Save Changes".
