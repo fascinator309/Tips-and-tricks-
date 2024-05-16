@@ -1,0 +1,8 @@
+startup app in windows --- are the app which auto start at the time of windows boot up .
+
+to set it --
+
+1. make a shortcut for that app any where( generally desktop) .
+2. windows + r -- then type shell:startup , startup folder will open
+3. paste the shortcut in this folder , then all set.
+4. restart the pc.
