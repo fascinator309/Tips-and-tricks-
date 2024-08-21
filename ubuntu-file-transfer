@@ -1,0 +1,7 @@
+how to share file between two user of ubuntu
+
+sudo cp file_path home/target_user
+now file is copied to target user .....
+
+sometimes , file is locked in target user to unlock give permission from  admin user
+sudo chown target_user:target_user /home/target_user/file
