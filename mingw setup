@@ -1,0 +1,9 @@
+download mingw for source forge website
+click on all options on "mark for installation".
+click on "installation tab" and select "apply changes".
+then click apply.
+open file explorer -> my pc -> c drive-> MINGW->bin , now copy path i.e -> C:MINGW\bin
+search for "edit the system environment variables"
+click on : environment variables ->click on path(in system variables) ->edit -> new -> paste and ok , and close dialog box by clicking ok
+now all set , let check using cmd 
+type - gcc --version , if it shown version without any error then , it install successfully
