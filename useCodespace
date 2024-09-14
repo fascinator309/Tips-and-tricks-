@@ -1,0 +1,7 @@
+open github and click on codespace
+select repo , system configration
+menu->view->command pallete->enter " dev container "(select first) -> create new -> e.g node.js for js compiler environment
+rebuilt
+all set to work
+close machine to save your time of free tier, 
+->click on codespace -> select active machine and delete it.
